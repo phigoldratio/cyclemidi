@@ -1,4 +1,3 @@
-from markdown_it.common.html_re import attribute
 
 
 class Reference:
